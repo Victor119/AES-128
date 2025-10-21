@@ -1,0 +1,20 @@
+pentru r_i
+
+daca facem dupa formula 0000 0010 ^ ((i-4)/4)
+
+
+r[2] =  0000 0010 
+	0000 0010
+
+r[3] =  0000 0100
+	0000 0100
+
+r[4] =  0000 1000
+	0000 1000
+
+r[5] =  0001 0000 = 16 != 10
+
+
+fie folosim tabel din documentatie FIPS 197
+
+fie folosim alta formula
